@@ -1,4 +1,4 @@
-# [AI App Store - Landing Page (in progress)](https://www.ai-app-store-black.vercel.app)
+# [AI App Store - Landing Page (in progress)](https://ai-app-store-black.vercel.app)
 
 A modern landing page for the AI App Store product.
 
