@@ -1,6 +1,6 @@
-# AI App Store - Landing Page
+# AI App Store - Landing Page (in progress)
 
-A modern, beautiful landing page for the AI App Store product.
+A modern landing page for the AI App Store product.
 
 ## Getting Started
 
